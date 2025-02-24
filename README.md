@@ -50,13 +50,13 @@
 
 ### 🌍 **Connect with Me**
 <div align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario">
+  <a href="https://www.linkedin.com/in/cristian-martinez-40a203270">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://tu-portfolio.com">
     <img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web&logoColor=white"/>
   </a>
-  <a href="mailto:tu-email@example.com">
+  <a href="cristianmartineztez@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </div>

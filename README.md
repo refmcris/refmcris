@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-creator.eddyvinck.dev/api/banner?text=Hey,%20I'm%20Cristian%20👋&fontSize=60&color=gradient&fontColor=ffffff&height=150" alt="Banner"/>
-</div>
+
 
 ---
 
